@@ -18,7 +18,8 @@ namespace cumleyi_sayi_kadar_yazma
             {
                 Console.WriteLine("{0}. {1}", (i + 1), cumle);
             }
-            Console.ReadKey();
+            Console.ReadKey(); 
+            //gayet güzel olmuş ayrıca github isimlendirmen doğru ve eksiksiz
         }
     }
 }
